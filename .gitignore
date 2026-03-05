@@ -1,3 +1,5 @@
+# .gitignore añadido con IA(!)
+
 # --- Dependencias ---
 # Ignora node_modules en cualquier subdirectorio (Ejercicio1, Ejercicio2, etc.)
 node_modules/
